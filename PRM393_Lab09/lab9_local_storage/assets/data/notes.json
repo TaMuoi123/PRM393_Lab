@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Module 9 Lab Preparation",
+    "content": "Study rootBundle.loadString() and path_provider documentation for local persistence.",
+    "timestamp": "2026-10-21 08:30"
+  },
+  {
+    "id": 2,
+    "title": "Flutter File I/O Notes",
+    "content": "Remember to use getApplicationDocumentsDirectory() for writing files safely on device.",
+    "timestamp": "2026-10-21 09:15"
+  },
+  {
+    "id": 3,
+    "title": "PRM393 Project Milestone",
+    "content": "Verify JSON CRUD operations with proper confirmation dialog and auto-save.",
+    "timestamp": "2026-10-21 10:00"
+  }
+]

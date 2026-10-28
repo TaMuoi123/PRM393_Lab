@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro M3 Max",
+    "category": "Laptops",
+    "price": 3199.99,
+    "description": "16-inch Liquid Retina XDR display, 36GB unified memory, 1TB SSD storage.",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 398.00,
+    "description": "Industry-leading noise canceling wireless headphones with Auto NC Optimizer.",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Dell UltraSharp 27 4K",
+    "category": "Monitors",
+    "price": 579.50,
+    "description": "U2723QE 4K UHD IPS Black monitor with 98% DCI-P3 color gamut and USB-C hub.",
+    "rating": 4.8,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Keychron Q1 Pro Wireless",
+    "category": "Keyboards",
+    "price": 199.00,
+    "description": "75% QMK/VIA custom mechanical keyboard with CNC aluminum body and hot-swap switches.",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Logitech MX Master 3S",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Performance wireless mouse with 8K DPI tracking and quiet clicks.",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "iPad Pro 11-inch M4",
+    "category": "Tablets",
+    "price": 999.00,
+    "description": "Ultra Retina XDR OLED display with breakthrough performance in an impossibly thin design.",
+    "rating": 4.8,
+    "inStock": true
+  }
+]

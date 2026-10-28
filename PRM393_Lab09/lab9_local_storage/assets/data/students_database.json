@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "studentCode": "SE160001",
+    "fullName": "Nguyen Van An",
+    "major": "Software Engineering",
+    "gpa": 3.85,
+    "email": "annvse160001@fpt.edu.vn",
+    "phone": "0901234567"
+  },
+  {
+    "id": 2,
+    "studentCode": "SE160042",
+    "fullName": "Tran Thi Bich",
+    "major": "Artificial Intelligence",
+    "gpa": 3.92,
+    "email": "bicttse160042@fpt.edu.vn",
+    "phone": "0912345678"
+  },
+  {
+    "id": 3,
+    "studentCode": "SE160105",
+    "fullName": "Le Hoang Cuong",
+    "major": "Information Assurance",
+    "gpa": 3.65,
+    "email": "cuonglhse160105@fpt.edu.vn",
+    "phone": "0923456789"
+  },
+  {
+    "id": 4,
+    "studentCode": "SE160210",
+    "fullName": "Pham Minh Duc",
+    "major": "Software Engineering",
+    "gpa": 3.40,
+    "email": "ducpmse160210@fpt.edu.vn",
+    "phone": "0934567890"
+  },
+  {
+    "id": 5,
+    "studentCode": "SE160350",
+    "fullName": "Vo Thi Mai",
+    "major": "Information Systems",
+    "gpa": 3.78,
+    "email": "maivtse160350@fpt.edu.vn",
+    "phone": "0945678901"
+  }
+]

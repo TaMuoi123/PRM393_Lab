@@ -1,0 +1,26 @@
+name: lab9_local_storage
+description: "PRM393 Lab 09 - Working With Local JSON Storage"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path_provider: 2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+
+dependency_overrides:
+  path_provider_foundation: 2.3.2
